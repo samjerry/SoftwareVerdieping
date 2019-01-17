@@ -1,10 +1,31 @@
 # SoftwareVerdieping
-*Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
-
 Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan? 
 
 ## Software Anaylse 
-Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
+UE4: 
+  pros:
+    - Epic Games pays more attention to engine optimization, especially under VR and the UE has a built-in VR editor.
+    - Possibility to work with C++ and/or Blueprints.
+    - Comes packaged with some pretty prebuilt effects and assets.
+    - Comes with "Matinee" this helps the VR experience feel more polished.
+  
+  cons:
+    - Documentation is minimum.
+    - Difficult to find examples of the classes and methods.
+    - I’m not particularly familiar with C++.
+
+Unity3D:
+  pros:
+    - Has a ton of great tutorials for beginners.
+    - Searching on Google for an answer is easier with Unity questions versus Unreal ones.
+    - Both Unity programming concepts and their API have great documentation.
+    - Unity comes with two options for programming: C# and JavaScript.
+    
+  cons:
+    - Trying to quickly get threading working in Unity seems challenging.
+    
+Conclusion: 
+Overall, both engines were pretty easy to start ramping up in. Ultimately, I chose Unity3D
 
 ## Leerdoelen 
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
@@ -24,5 +45,5 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
 - [Splines 'n Such](http://phildogames.com/blog/spline.html)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+- [UE4 VS Unity part 1](https://medium.com/vrtoken/unreal-engine-vs-unity-expert-opinion-and-analytics-from-vrt-world-developer-e5dd3039cf68)
+- [UE4 VS Unity part 2](https://blog.thesoapcollective.com/jumping-into-vr-unreal-vs-unity-in-one-weekend-4e5082657925)
