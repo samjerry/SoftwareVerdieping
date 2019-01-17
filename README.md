@@ -1,7 +1,8 @@
 # SoftwareVerdieping
-Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan? 
+Make a Coaster Shooter VR. This is a game where the player moves over a pre-determined path.
+At the same time the player needs to defend himself against waves of enemies without the capability of moving.
 
-## Software Anaylse 
+## Software Analyse 
 UE4: 
   pros:
     - Epic Games pays more attention to engine optimization, especially under VR and the UE has a built-in VR editor.
@@ -22,10 +23,11 @@ Unity3D:
     - Unity comes with two options for programming: C# and JavaScript.
     
   cons:
-    - Trying to quickly get threading working in Unity seems challenging.
+    - Trying to get threading working in Unity quickly seems challenging.
+    - An older version of C#.
     
 Conclusion: 
-Overall, both engines were pretty easy to start ramping up in. Ultimately, I chose Unity3D
+Overall, both engines are pretty easy to start ramping up in. Ultimately, I chose Unity3D because I prefer to work with C# since I do not have enough knowledge to work with C++. 
 
 ## Leerdoelen 
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
