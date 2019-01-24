@@ -36,7 +36,7 @@ Overall, both engines are pretty easy to start ramping up in. Ultimately, I chos
 ## Planning 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 |
+|week 1 | look into multiple engines |
 |week 2 |
 
 ## Bronnen
