@@ -13,6 +13,8 @@ UE4:
   cons:
     - Documentation is minimum.
     - Difficult to find examples of the classes and methods.
+    - A Heavy Engine and not all machines will be able to run it.
+    - massive project files.
     - I’m not particularly familiar with C++.
 
 Unity3D:
