@@ -36,7 +36,7 @@ Overall, both engines are pretty easy to start ramping up in. Ultimately, I chos
 ## Planning 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 | look into multiple engines |
+|week 1 | ... | look into multiple engines | write down the pros and cons of the final 2 engines and choose which one to use | ... | research splines and brézier curves | ... |
 |week 2 |
 
 ## Bronnen
