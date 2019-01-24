@@ -30,8 +30,8 @@ Conclusion:
 Overall, both engines are pretty easy to start ramping up in. Ultimately, I chose Unity3D because I prefer to work with C# since I do not have enough knowledge to work with C++. 
 
 ## Leerdoelen 
-- use splines to move the player
-- 
+- learn how to use splines
+- to move the player
 - 
 
 ## Planning 
@@ -44,3 +44,4 @@ Overall, both engines are pretty easy to start ramping up in. Ultimately, I chos
 - [Splines 'n Such](http://phildogames.com/blog/spline.html)
 - [UE4 VS Unity part 1](https://medium.com/vrtoken/unreal-engine-vs-unity-expert-opinion-and-analytics-from-vrt-world-developer-e5dd3039cf68)
 - [UE4 VS Unity part 2](https://blog.thesoapcollective.com/jumping-into-vr-unreal-vs-unity-in-one-weekend-4e5082657925)
+- [Bézier curves](https://en.wikipedia.org/wiki/Bézier_curve)
