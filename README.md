@@ -32,7 +32,6 @@ Overall, both engines are pretty easy to start ramping up in. Ultimately, I chos
 ## Leerdoelen 
 - learn how to use splines
 - learn how to use Bézier curves to move the player
-- 
 
 ## Planning 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
