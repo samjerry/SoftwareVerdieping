@@ -32,8 +32,8 @@ Conclusion:
 Overall, both engines are pretty easy to start ramping up in. Ultimately, I chose Unity3D because I prefer to work with C# since I do not have enough knowledge to work with C++. 
 
 ## Leerdoelen 
-- learn how to use splines
-- learn how to use Bézier curves to move the player
+- learn how to use splines.
+- learn how to use Bézier curves.
 
 ## Planning 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
