@@ -31,7 +31,7 @@ Overall, both engines are pretty easy to start ramping up in. Ultimately, I chos
 
 ## Leerdoelen 
 - learn how to use splines
-- to move the player
+- learn how to use Bézier curves to move the player
 - 
 
 ## Planning 
